@@ -1,2 +1,4 @@
 # Project1
-This is my first responsive project using html and css
+This is my first responsive project using html and css.
+
+Author - Arsalna Khan
